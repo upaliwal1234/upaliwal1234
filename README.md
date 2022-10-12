@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @upaliwal1234
+- 👋 Hi, I’m Utkarsh Paliwal
 <!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning Java and Web Development.
 <!-- - 💞️ I’m looking to collaborate on ... -->
