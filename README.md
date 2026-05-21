@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Paliwal
 <!-- - 👀 I’m interested in  -->
-- 🌱 I’m currently learning Java, DSA and Full Stack Web Development.
+- 🌱 I’m a full stack developer working with Angular, React, Nodejs and MongoDB.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me at [www.linkedin.com.](https://www.linkedin.com/in/utkarshpaliwal1234/)
 
